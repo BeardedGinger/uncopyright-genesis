@@ -1,0 +1,36 @@
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
+#uncopyright-info {
+	background: #fff;
+	display: none;
+	padding: 40px;
+	width: 40%;
+}
+.modal_close {
+	background: #fff;
+	border-radius: 30px;
+		-moz-border-radius: 30px;
+		-webkit-border-radius: 30px;
+	border: 1px solid #ddd;
+	color: #222;
+	float: right;
+	font-size: 20px;
+	padding: 1px 11px 1px 12px;
+	position: absolute;
+	right: -12px;
+	text-align: center;
+	top: -16px;
+	vertical-align: middle;
+}
+.modal_close:hover {
+	color: #444;
+	cursor: pointer;
+}
