@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Uncopyright Genesis Website
- * Plugin URI: http://github.com/BeardedGinger/Uncopyright-Genesis
+ * Plugin URI: https://github.com/BeardedGinger/uncopyright-genesis
  * Description: Removes traditional "copyright" text from a Genesis site and replaces with an uncopyright link with uncopyright info in a modal window
  * Version: 1.0.0
  * Author: Josh Mallard
  * Author URI: http://joshmallard.com
  * License: Do whatever the f*** you want (in the spirit of uncopyright)
- * GitHub Plugin URI: https://github.com/BeardedGinger/Uncopyright-Genesis
+ * GitHub Plugin URI: https://github.com/BeardedGinger/uncopyright-genesis
  */
 
 // If this file is called directly, abort.
